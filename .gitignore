@@ -1,0 +1,5 @@
+error.log
+*.log(to ignore all log files)
+dir/
+/dir/(to ignore outer directories
+static/dir(to ignore the directory in static folder
